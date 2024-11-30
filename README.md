@@ -10,6 +10,9 @@ Perhaps try thinking like a computer scientist:
 - [Think Python](https://greenteapress.com/wp/think-python-3rd-edition/)
 - [Think Java](https://greenteapress.com/wp/think-java/)
 
+## How do I learn linux?
+- [The Linux Command Line](https://linuxcommand.org/tlcl.php)
+
 ## Operational shit
 - [Be ethical](https://www.acm.org/code-of-ethics)
 - [No Hello](https://nohello.net/en/)
