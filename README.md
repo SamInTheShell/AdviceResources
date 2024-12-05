@@ -24,8 +24,13 @@ Perhaps try thinking like a computer scientist:
 
 ## How do I learn linux?
 - [The Linux Command Line](https://linuxcommand.org/tlcl.php)
+- [Linux From Scratch](https://www.linuxfromscratch.org/)
+- [Beyond Linux From Scratch](https://www.linuxfromscratch.org/blfs/)
 
 ## Operational Stuff
 - [Be ethical](https://www.acm.org/code-of-ethics)
 - [No Hello](https://nohello.net/en/)
 - [Don't as to ask](https://dontasktoask.com/)
+
+## Final Thoughts
+Nothing worth doing is really easy, but there is much joy to be had in the undertaking of things worth doing.
