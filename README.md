@@ -18,8 +18,9 @@ Some cliff notes about things one should know in general.
 
 ## How do I do programming?
 Perhaps try thinking like a computer scientist:
+- [Think Python - 2nd Edition](https://greenteapress.com/wp/think-python-2e/) - Has a downloadable PDF that explains programming.
+- [Think Python - 3rd Edition](https://greenteapress.com/wp/think-python-3rd-edition/) - Is fully consumable via browser.
 - [Think++](https://greenteapress.com/wp/think-c/)
-- [Think Python](https://greenteapress.com/wp/think-python-3rd-edition/)
 - [Think Java](https://greenteapress.com/wp/think-java/)
 
 ## How do I learn linux?
