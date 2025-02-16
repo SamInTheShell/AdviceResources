@@ -23,6 +23,8 @@ Perhaps try thinking like a computer scientist:
 - [Think++](https://greenteapress.com/wp/think-c/)
 - [Think Java](https://greenteapress.com/wp/think-java/)
 
+Once you know one language, you can often translate that knowledge to other languages and there are even resources like [RosettaCode.org](https://rosettacode.org/wiki/Rosetta_Code) to help you figure out how to work with other languages with your new found knowledge.
+
 ## How do I learn linux?
 - [The Linux Command Line](https://linuxcommand.org/tlcl.php)
 - [Linux From Scratch](https://www.linuxfromscratch.org/)
