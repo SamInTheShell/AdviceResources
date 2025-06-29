@@ -35,5 +35,8 @@ Once you know one language, you can often translate that knowledge to other lang
 - [No Hello](https://nohello.net/en/)
 - [Don't as to ask](https://dontasktoask.com/)
 
+## Getting Hired
+- [Hack the Tech Hiring Process](https://www.youtube.com/watch?v=yQAxJ_TMDuY) - Really smart friend of mine dropped some really solid advice for those starting off in the tech industry.
+
 ## Final Thoughts
 Nothing worth doing is really easy, but there is much joy to be had in the undertaking of things worth doing.
